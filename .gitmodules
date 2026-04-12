@@ -19,3 +19,6 @@
 [submodule "minishell"]
 	path = minishell
 	url = https://github.com/ayermeko/minishell
+[submodule "CPP_modules"]
+	path = CPP_modules
+	url = https://github.com/ayermeko/CPP_modules

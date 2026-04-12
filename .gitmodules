@@ -7,3 +7,6 @@
 [submodule "minitalk"]
 	path = minitalk
 	url = https://github.com/ayermeko/minitalk
+[submodule "push_swap"]
+	path = push_swap
+	url = https://github.com/ayermeko/push_swap_github/

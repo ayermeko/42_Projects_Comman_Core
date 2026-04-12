@@ -10,3 +10,6 @@
 [submodule "push_swap"]
 	path = push_swap
 	url = https://github.com/ayermeko/push_swap_github/
+[submodule "so_long"]
+	path = so_long
+	url = https://github.com/ayermeko/so_long

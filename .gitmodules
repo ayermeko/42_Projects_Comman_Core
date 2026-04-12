@@ -22,3 +22,6 @@
 [submodule "CPP_modules"]
 	path = CPP_modules
 	url = https://github.com/ayermeko/CPP_modules
+[submodule "ft_irc"]
+	path = ft_irc
+	url = https://github.com/ayermeko/ft_irc

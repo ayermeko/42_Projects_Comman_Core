@@ -13,3 +13,6 @@
 [submodule "so_long"]
 	path = so_long
 	url = https://github.com/ayermeko/so_long
+[submodule "Philo_42"]
+	path = Philo_42
+	url = https://github.com/ayermeko/Philo_42

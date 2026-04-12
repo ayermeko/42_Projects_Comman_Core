@@ -16,3 +16,6 @@
 [submodule "Philo_42"]
 	path = Philo_42
 	url = https://github.com/ayermeko/Philo_42
+[submodule "minishell"]
+	path = minishell
+	url = https://github.com/ayermeko/minishell

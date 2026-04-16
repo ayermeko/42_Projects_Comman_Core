@@ -1,3 +1,7 @@
+<img width="640" height="640" alt="code-coding" src="https://github.com/user-attachments/assets/b3288b54-1e8a-4bd9-9384-980f94f654ff" />
+
+
+
 # 🎓 42 Common Core Projects
 
 Welcome to my **42 School Common Core** repository! This collection encompasses the foundational projects completed during the initial phase of the 42 curriculum. 

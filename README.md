@@ -2,6 +2,10 @@
 
 Welcome to my **42 School Common Core** repository! This collection encompasses the foundational projects completed during the initial phase of the 42 curriculum. 
 
+## Personal Remark
+
+Whatever you are doing - Do not panic!
+
 ## 🌟 What is the 42 Common Core?
 42 is a global education initiative that proposes a new way of learning technology: no teachers, no classrooms, students evaluating each other, and a pedagogy based 100% on practical, peer-reviewed projects. 
 
